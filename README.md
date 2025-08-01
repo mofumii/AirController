@@ -67,6 +67,7 @@ sudo systemctl enable aircontroller
 
 ## Troubleshooting
 - Make sure pactl and PulseAudio/PipeWire are installed.
+- Make sure you are using Bleak 0.13.0
 - Ensure your user has permission to acces bluetooth devices.
 - Check if your AirPods are visible via bluetoothctl or similar tools.
 
